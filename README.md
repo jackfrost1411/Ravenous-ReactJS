@@ -3,9 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshots of the webapp
-![Home page](https://github.com/jackfrost1411/ravenous/blob/master/Capture.PNG?raw=true)
+![Home page](https://github.com/jackfrost1411/Ravenous-ReactJS/blob/master/Capture.PNG?raw=true)
 
-![Search results](https://github.com/jackfrost1411/ravenous/blob/master/Capture2.PNG?raw=true)
+![Search results](https://github.com/jackfrost1411/Ravenous-ReactJS/blob/master/Capture2.PNG?raw=true)
 
 
 ## Available Scripts
