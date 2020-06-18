@@ -1,5 +1,5 @@
 # Find the best food/restaurants in location of your choice. [United States of America]
-
+### Using Yelp API. (Enter the location of US only as the API only covers the locations of US)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshots of the webapp
